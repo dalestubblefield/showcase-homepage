@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_data_broker_transform">
+    <sys_ux_data_broker_transform action="INSERT_OR_UPDATE">
+        <acl_failure_result>{ "displayValue": "ACL
+            FAILURE:Possibly missing ACL for Data
+            Resource"}</acl_failure_result>
+        <api_name>x_snc_creator_show.getTableData</api_name>
+        <batch_exclude>false</batch_exclude>
+        <description>Retrieve
+            a list of records from a specified table along with values for the specified
+            fields</description>
+        <mutates_server_data>false</mutates_server_data>
+        <name>getTableData</name>
+        <output_schema/>
+        <private>false</private>
+        <props>[
+            &#13;
+            {&#13;
+            "name": "table",&#13;
+            "label": "Table",&#13;
+            "description": "Name of the selected table",&#13;
+            "readOnly": false,&#13;
+            "fieldType": "table_name",&#13;
+            "mandatory": true&#13;
+            },&#13;
+            {&#13;
+            "name": "fields",&#13;
+            "label": "List of Fields (field1, field2, ...)",&#13;
+            "description": "List of Fields to retrieve",&#13;
+            "readOnly": false,&#13;
+            "fieldType": "string",&#13;
+            "mandatory": true&#13;
+            },&#13;
+            {&#13;
+            "name": "orderByField",&#13;
+            "label": "Order by Field",&#13;
+            "description": "field name by which the records will be sorted in order.",&#13;
+            "readOnly": false,&#13;
+            "fieldType": "string",&#13;
+            "mandatory": true&#13;
+            }&#13;
+            ]</props>
+        <required_translations>[ {
+            "message" : "List of Fields (field1, field2, ...)",
+            "comment" : ""
+            }, {
+            "message" : "List of Fields to retrieve",
+            "comment" : ""
+            }, {
+            "message" : "Name of the selected table",
+            "comment" : ""
+            }, {
+            "message" : "Order by Field",
+            "comment" : ""
+            }, {
+            "message" : "Table",
+            "comment" : ""
+            }, {
+            "message" : "field name by which the records will be sorted in order.",
+            "comment" : ""
+            }
+            ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <script><![CDATA[function
+            transform(input) {
+            var table = input.table;
+            var fields = input.fields;
+            var orderByField = input.orderByField;
+
+            if (!fields) {
+            return {
+            "error": "Fields are not defined"
+            };
+            }
+
+            // Convert the CSV fields string into an array
+            var fieldList = fields.split(',').map(function(item) {
+            return item.trim();
+            });
+
+            // Validate the input parameters
+            if (!table || fieldList.length === 0) {
+            return {
+            "error": "Invalid input parameters"
+            };
+            }
+
+            var record = new GlideRecord(table);
+            record.orderBy(orderByField);
+            record.query();
+
+            var recordList = [];
+
+            while (record.next()) {
+            var recordData = {};
+            fieldList.forEach(function(field) {
+            recordData[field] = record.getValue(field);
+            });
+            recordList.push(recordData);
+            }
+
+            gs.info("@UIB: getTableData \n" +
+            "Input: " + JSON.stringify(input, null, 4) + "\n\n" +
+            "Results: " + JSON.stringify(recordList, null, 4));
+
+            return recordList;
+            }]]></script>
+        <sys_class_name>sys_ux_data_broker_transform</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2024-02-24 00:00:00</sys_created_on>
+        <sys_id>05bf75a587a4c21031a07558dabb3529</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>getTableData</sys_name>
+        <sys_package display_value="Showcase Homepage" source="x_snc_creator_show">724949c12b52ae50ddbbf275d891bfc9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Showcase Homepage">724949c12b52ae50ddbbf275d891bfc9</sys_scope>
+        <sys_update_name>sys_ux_data_broker_transform_05bf75a587a4c21031a07558dabb3529</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2025-06-21 00:00:00</sys_updated_on>
+    </sys_ux_data_broker_transform>
+    <sys_translated_text action="delete_multiple" query="documentkey=05bf75a587a4c21031a07558dabb3529"/>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>05bf75a587a4c21031a07558dabb3529</id>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2024-11-14 21:22:14</sys_created_on>
+        <sys_id>18abe57efb3d1e10f2b7fbd37eefdcf2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2024-11-14 21:22:14</sys_updated_on>
+        <table>sys_ux_data_broker_transform</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+</record_update>

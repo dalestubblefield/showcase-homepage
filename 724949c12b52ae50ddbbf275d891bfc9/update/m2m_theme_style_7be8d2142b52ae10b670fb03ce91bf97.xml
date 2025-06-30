@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_theme_style">
+    <m2m_theme_style action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>10</order>
+        <style display_value="Light Green Links">7ca816502b52ae10b670fb03ce91bfc6</style>
+        <sys_class_name>m2m_theme_style</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2025-06-18 22:58:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7be8d2142b52ae10b670fb03ce91bf97</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Showcase Homepage" source="x_snc_creator_show">724949c12b52ae50ddbbf275d891bfc9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Showcase Homepage">724949c12b52ae50ddbbf275d891bfc9</sys_scope>
+        <sys_update_name>m2m_theme_style_7be8d2142b52ae10b670fb03ce91bf97</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2025-06-18 22:58:05</sys_updated_on>
+        <theme display_value="Coral">fad87d2ca304121029a4d1aed31e610f</theme>
+    </m2m_theme_style>
+</record_update>

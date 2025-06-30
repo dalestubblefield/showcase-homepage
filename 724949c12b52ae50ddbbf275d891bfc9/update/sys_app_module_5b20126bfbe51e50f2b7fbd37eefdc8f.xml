@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Showcase">80608419472c02105d6c8fd4f16d436b</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>Launch Studio</hint>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Getting Started</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>335</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>/$studio.do?sysparm_transaction_scope=global&amp;sysparm_nostack=true&amp;sysparm_use_polaris=true</query>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>delegated_developer</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2024-11-04 21:41:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5b20126bfbe51e50f2b7fbd37eefdc8f</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Old Green Studio ➚</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Showcase Homepage" source="x_snc_creator_show">724949c12b52ae50ddbbf275d891bfc9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Showcase Homepage">724949c12b52ae50ddbbf275d891bfc9</sys_scope>
+        <sys_update_name>sys_app_module_5b20126bfbe51e50f2b7fbd37eefdc8f</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2025-06-27 20:14:55</sys_updated_on>
+        <timeline_page/>
+        <title>Old Green Studio ➚</title>
+        <uncancelable>true</uncancelable>
+        <view_name/>
+        <window_name>_blank</window_name>
+    </sys_app_module>
+</record_update>

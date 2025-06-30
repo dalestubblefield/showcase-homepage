@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_controller">
+    <sys_ux_controller action="INSERT_OR_UPDATE">
+        <controller_config_guidance>{}</controller_config_guidance>
+        <controller_macroponent display_value="Showcase Home">b2b8e5f4fb6a1210f2b7fbd37eefdc22</controller_macroponent>
+        <description/>
+        <name>ShowcaseCard</name>
+        <sys_class_name>sys_ux_controller</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2025-06-18 20:44:55</sys_created_on>
+        <sys_id>7f6ab95c2b5e6e10b670fb03ce91bfd1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ShowcaseCard</sys_name>
+        <sys_package display_value="Showcase Homepage" source="x_snc_creator_show">724949c12b52ae50ddbbf275d891bfc9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Showcase Homepage">724949c12b52ae50ddbbf275d891bfc9</sys_scope>
+        <sys_update_name>sys_ux_controller_7f6ab95c2b5e6e10b670fb03ce91bfd1</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2025-06-18 20:44:55</sys_updated_on>
+    </sys_ux_controller>
+    <sys_translated_text action="delete_multiple" query="documentkey=7f6ab95c2b5e6e10b670fb03ce91bfd1"/>
+</record_update>

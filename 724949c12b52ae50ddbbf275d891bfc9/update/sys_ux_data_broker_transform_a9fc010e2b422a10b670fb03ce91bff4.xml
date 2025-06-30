@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_data_broker_transform">
+    <sys_ux_data_broker_transform action="INSERT_OR_UPDATE">
+        <acl_failure_result/>
+        <api_name>x_snc_creator_show.Get System Property Value</api_name>
+        <batch_exclude>false</batch_exclude>
+        <description>This data broker is used to retrieve the value of a system property.</description>
+        <mutates_server_data>false</mutates_server_data>
+        <name>Get System Property Value</name>
+        <output_schema/>
+        <private>false</private>
+        <props>[
+            {
+            "name": "property",
+            "label": "System Property",
+            "description": "A a publicly accessible system property to retrieve the value of.",
+            "readOnly": false,
+            "fieldType": "string",
+            "mandatory": false,
+            "defaultValue": "com.glide.embedded_help.version"
+            }
+]</props>
+        <required_translations>[ {
+  "message" : "A a publicly accessible system property to retrieve the value of.",
+  "comment" : ""
+}, {
+  "message" : "System Property",
+  "comment" : ""
+} ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <script><![CDATA[function
+transform(input) {
+    var propGetter = new x_snc_creator_show.GetPropertyValue();
+    var result = propGetter.get(input.property);
+    return JSON.parse(JSON.stringify(result));
+}]]></script>
+        <sys_class_name>sys_ux_data_broker_transform</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2025-06-11 00:00:00</sys_created_on>
+        <sys_id>a9fc010e2b422a10b670fb03ce91bff4</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Get System Property Value</sys_name>
+        <sys_package display_value="Showcase Homepage" source="x_snc_creator_show">724949c12b52ae50ddbbf275d891bfc9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Showcase Homepage">724949c12b52ae50ddbbf275d891bfc9</sys_scope>
+        <sys_update_name>sys_ux_data_broker_transform_a9fc010e2b422a10b670fb03ce91bff4</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2025-06-21 22:33:09</sys_updated_on>
+    </sys_ux_data_broker_transform>
+    <sys_translated_text action="delete_multiple" query="documentkey=a9fc010e2b422a10b670fb03ce91bff4"/>
+</record_update>
