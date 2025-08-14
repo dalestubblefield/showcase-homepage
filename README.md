@@ -2,4 +2,4 @@
 
 A cool homepage for your ServiceNow instance as well as some custom menus. 
 
-![image](https://github.com/user-attachments/assets/c790cdae-c2db-4979-89e9-b02195fe22b1)
+<img width="1651" height="1028" alt="image" src="https://github.com/user-attachments/assets/8f1ee9e8-fead-4d24-8373-ac1a931c863f" />
