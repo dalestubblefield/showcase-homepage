@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="package_id" label="Package ID" language="en" table="x_snc_creator_show_showcase_menu_entry">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>package_id</element>
+            <help/>
+            <hint/>
+            <label>Package ID</label>
+            <language>en</language>
+            <name>x_snc_creator_show_showcase_menu_entry</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-06 01:30:08</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Package ID</sys_name>
+            <sys_package display_value="Showcase Homepage" source="x_snc_creator_show">724949c12b52ae50ddbbf275d891bfc9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Showcase Homepage">724949c12b52ae50ddbbf275d891bfc9</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_creator_show_showcase_menu_entry_package_id_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-06 01:30:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
