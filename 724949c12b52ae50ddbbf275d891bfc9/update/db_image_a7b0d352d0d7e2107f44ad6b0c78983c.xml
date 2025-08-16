@@ -27,19 +27,20 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
+        <encryption_context/>
         <file_name>image</file_name>
         <hash>984ff9dc85cdf3cc106bf4882560d8965c99e2233c924165bcb2e0d6c9ffd62b</hash>
         <image_height>1245</image_height>
         <image_width>1660</image_width>
         <size_bytes>1138775</size_bytes>
         <size_compressed>1138765</size_compressed>
-        <state/>
+        <state>available</state>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-08-14 01:14:06</sys_created_on>
         <sys_id>1821d352d0d7e2107f44ad6b0c789897</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-14 01:14:08</sys_updated_on>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>guest</sys_updated_by>
+        <sys_updated_on>2025-08-14 01:44:45</sys_updated_on>
         <table_name>ZZ_YYdb_image</table_name>
         <table_sys_id>a7b0d352d0d7e2107f44ad6b0c78983c</table_sys_id>
     </sys_attachment>

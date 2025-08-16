@@ -5,6 +5,7 @@
         <extension_point/>
         <fields/>
         <icon/>
+        <interoperable>false</interoperable>
         <name>Showcase Home</name>
         <optional_parameters>rootNode,levels</optional_parameters>
         <order>0</order>

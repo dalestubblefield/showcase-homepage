@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_polaris_configurable_menu_item">
+    <sys_polaris_configurable_menu_item action="INSERT_OR_UPDATE">
+        <application_id/>
+        <menu_id display_value="🚀">56bad4b8615e2ad07f44a1eb3aeea221</menu_id>
+        <module_id display_value="Creator Studio ➚ (No code)">687becb861de2ad07f44a1eb3aeea2b3</module_id>
+        <order>30</order>
+        <sys_class_name>sys_polaris_configurable_menu_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-20 20:56:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a1509ccd2d5e22107f44ee310e3bbf96</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>56bad4b8615e2ad07f44a1eb3aeea221</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Showcase Homepage" source="x_snc_creator_show">724949c12b52ae50ddbbf275d891bfc9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Showcase Homepage">724949c12b52ae50ddbbf275d891bfc9</sys_scope>
+        <sys_update_name>sys_polaris_configurable_menu_item_a1509ccd2d5e22107f44ee310e3bbf96</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-20 20:56:54</sys_updated_on>
+        <type>module</type>
+    </sys_polaris_configurable_menu_item>
+</record_update>
