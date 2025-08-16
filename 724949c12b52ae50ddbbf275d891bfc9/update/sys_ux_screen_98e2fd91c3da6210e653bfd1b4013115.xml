@@ -4,6 +4,7 @@
         <app_config display_value="Showcase">5498edb4fb6a1210f2b7fbd37eefdc3d</app_config>
         <description/>
         <disable_auto_reflow>false</disable_auto_reflow>
+        <disable_interoperable>false</disable_interoperable>
         <event_mappings/>
         <macroponent display_value="Default">44e2bd91c3da6210e653bfd1b40131f6</macroponent>
         <macroponent_config>{

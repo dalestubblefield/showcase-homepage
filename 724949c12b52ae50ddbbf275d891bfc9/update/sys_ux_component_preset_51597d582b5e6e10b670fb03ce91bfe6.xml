@@ -2,6 +2,7 @@
     <sys_ux_component_preset action="INSERT_OR_UPDATE">
         <component display_value="Container">d356d14b6e293a3020a244b63d278d8f</component>
         <controller display_value="Properties">fdcde28377221110960ced43ba5a99e7</controller>
+        <controller_dependencies/>
         <description>ShowcaseCard</description>
         <event_handlers/>
         <hide_component/>

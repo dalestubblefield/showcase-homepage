@@ -4,6 +4,7 @@
         <app_config display_value="Showcase">5498edb4fb6a1210f2b7fbd37eefdc3d</app_config>
         <description/>
         <disable_auto_reflow>true</disable_auto_reflow>
+        <disable_interoperable>false</disable_interoperable>
         <event_mappings/>
         <macroponent display_value="System Tables (Custom) Overview Default">b0f42fac831622107f44a64f8bda1eb7</macroponent>
         <macroponent_config>{
