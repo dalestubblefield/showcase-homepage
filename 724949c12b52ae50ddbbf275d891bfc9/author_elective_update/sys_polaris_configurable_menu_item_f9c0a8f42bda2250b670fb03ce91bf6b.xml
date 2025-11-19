@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_polaris_configurable_menu_item">
+    <sys_polaris_configurable_menu_item action="DELETE">
+        <application_id/>
+        <menu_id display_value="🚀">56bad4b8615e2ad07f44a1eb3aeea221</menu_id>
+        <module_id display_value="🚀 Edit Menu">b5db73e883d622107f44a64f8bda1e3e</module_id>
+        <order>999</order>
+        <sys_class_name>sys_polaris_configurable_menu_item</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2025-06-20 03:29:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f9c0a8f42bda2250b670fb03ce91bf6b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>56bad4b8615e2ad07f44a1eb3aeea221</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Showcase Homepage" source="x_snc_creator_show">724949c12b52ae50ddbbf275d891bfc9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Showcase Homepage">724949c12b52ae50ddbbf275d891bfc9</sys_scope>
+        <sys_update_name>sys_polaris_configurable_menu_item_f9c0a8f42bda2250b670fb03ce91bf6b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-20 20:56:58</sys_updated_on>
+        <type>module</type>
+    </sys_polaris_configurable_menu_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Showcase Homepage">724949c12b52ae50ddbbf275d891bfc9</application>
+        <file_path/>
+        <instance_id>9dcaf7b7ff909edcc812f8e4fc4fd9a5</instance_id>
+        <instance_name>paidzdev</instance_name>
+        <name>sys_polaris_configurable_menu_item_f9c0a8f42bda2250b670fb03ce91bf6b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_polaris_configurable_menu_item"><sys_polaris_configurable_menu_item action="INSERT_OR_UPDATE"><application_id/><menu_id display_value="]]>🚀<![CDATA[">56bad4b8615e2ad07f44a1eb3aeea221</menu_id><module_id display_value="]]>🚀<![CDATA[ Edit Menu">b5db73e883d622107f44a64f8bda1e3e</module_id><order>999</order><sys_class_name>sys_polaris_configurable_menu_item</sys_class_name><sys_created_by>dale.stubblefield</sys_created_by><sys_created_on>2025-06-20 03:29:55</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f9c0a8f42bda2250b670fb03ce91bf6b</sys_id><sys_mod_count>2</sys_mod_count><sys_name>56bad4b8615e2ad07f44a1eb3aeea221</sys_name><sys_overrides/><sys_package display_value="Showcase Homepage" source="x_snc_creator_show">724949c12b52ae50ddbbf275d891bfc9</sys_package><sys_policy/><sys_scope display_value="Showcase Homepage">724949c12b52ae50ddbbf275d891bfc9</sys_scope><sys_update_name>sys_polaris_configurable_menu_item_f9c0a8f42bda2250b670fb03ce91bf6b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-20 20:56:58</sys_updated_on><type>module</type></sys_polaris_configurable_menu_item></record_update>]]></payload>
+        <payload_hash>-507877897</payload_hash>
+        <record_name>56bad4b8615e2ad07f44a1eb3aeea221</record_name>
+        <reverted_from/>
+        <source>706ab8102b2032108cdef5e0f291bf52</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2025-10-08 12:26:07</sys_created_on>
+        <sys_id>aa60df6b93643a10d892f912ed03d64e</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>199c3c933180000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Unified Navigation Configurable Menu Ite</type>
+        <update_guid>6a60df6b26643a109e48f87d521dbe4e</update_guid>
+        <update_guid_history>6a60df6b26643a109e48f87d521dbe4e:-507877897</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2025-10-19 01:41:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_polaris_configurable_menu_item">sys_polaris_configurable_menu_item</sys_db_object>
+        <sys_id>0448ae3f28794b52893c60e8b48234c9</sys_id>
+        <sys_metadata>f9c0a8f42bda2250b670fb03ce91bf6b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>56bad4b8615e2ad07f44a1eb3aeea221</sys_name>
+        <sys_package display_value="Showcase Homepage" source="x_snc_creator_show">724949c12b52ae50ddbbf275d891bfc9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Showcase Homepage">724949c12b52ae50ddbbf275d891bfc9</sys_scope>
+        <sys_scope_delete display_value="">02d18785db534db0801a5b64f5408c40</sys_scope_delete>
+        <sys_update_name>sys_polaris_configurable_menu_item_f9c0a8f42bda2250b670fb03ce91bf6b</sys_update_name>
+        <sys_update_version display_value="sys_polaris_configurable_menu_item_f9c0a8f42bda2250b670fb03ce91bf6b">aa60df6b93643a10d892f912ed03d64e</sys_update_version>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2025-10-19 01:41:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

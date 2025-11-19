@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_feature_provider">
+    <one_api_feature_provider action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <feature display_value="f10c32219fabd210da502fca9a0a1c96">2658432f83247a107f44488d42da1ec7</feature>
+        <feature_service display_value="OneExtendGenericProvider">5233278353111110c271ddeeff7b129b</feature_service>
+        <feature_service_factory><![CDATA[(function() { return new global.OneExtendGenericProvider(); })()]]></feature_service_factory>
+        <name>LLM Proxy OEM provider</name>
+        <short_description>Auto Generated </short_description>
+        <sys_class_name>one_api_feature_provider</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-19 01:06:37</sys_created_on>
+        <sys_id>aa584b6f83247a107f44488d42da1eef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LLM Proxy OEM provider</sys_name>
+        <sys_package display_value="Showcase Homepage" source="x_snc_creator_show">724949c12b52ae50ddbbf275d891bfc9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Showcase Homepage">724949c12b52ae50ddbbf275d891bfc9</sys_scope>
+        <sys_update_name>one_api_feature_provider_aa584b6f83247a107f44488d42da1eef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-19 01:06:37</sys_updated_on>
+        <type>FDIH Action</type>
+        <type_document display_value="Execute LLM Proxy">7ce0068f9f2312105cb92fca9a0a1ce1</type_document>
+    </one_api_feature_provider>
+</record_update>

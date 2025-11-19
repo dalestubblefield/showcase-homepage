@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="2f3acebd83e2a6107f44edf820da1eb9" label="Showcase menu item" max_length="40" name="x_snc_creator_show_showcase_menu_entry" type="collection">
-        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Nav menu item" max_length="32" name="nav_menu_item" reference="sys_polaris_configurable_menu_item" type="reference"/>
-        <element label="Package ID" max_length="200" name="package_id" type="string"/>
-        <element display="true" label="Title" max_length="200" name="title" type="string"/>
-        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Module" max_length="32" name="module" reference="sys_app_module" type="reference"/>
-        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Navigation menu" max_length="32" name="unified_navigation_menu" reference="sys_polaris_menu_config" type="reference"/>
-        <element attributes="edge_encryption_enabled=true" label="Package installed" max_length="40" name="package_installed" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Order" max_length="40" name="order" type="integer"/>
+        <element display="true" label="Title" max_length="200" name="title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Package installed" max_length="40" name="package_installed" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Unified Navigation Configurable Menu Item" max_length="32" name="nav_menu_item" reference="sys_polaris_configurable_menu_item" type="reference"/>
+        <element label="Package ID" max_length="200" name="package_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Unified navigation menu" max_length="32" name="unified_navigation_menu" reference="sys_polaris_menu_config" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Module Reference" max_length="32" name="module" reference="sys_app_module" type="reference"/>
         <index name="index">
             <element name="module"/>
         </index>

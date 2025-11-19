@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_polaris_configurable_menu_item">
+    <sys_polaris_configurable_menu_item action="DELETE">
+        <application_id/>
+        <menu_id display_value="🧬">92f93be483d622107f44a64f8bda1ef8</menu_id>
+        <module_id display_value="RPA Hub">94568c492d1e22107f44ee310e3bbf7e</module_id>
+        <order>170</order>
+        <sys_class_name>sys_polaris_configurable_menu_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-20 20:13:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>494684892d1e22107f44ee310e3bbf95</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>92f93be483d622107f44a64f8bda1ef8</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Showcase Homepage" source="x_snc_creator_show">724949c12b52ae50ddbbf275d891bfc9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Showcase Homepage">724949c12b52ae50ddbbf275d891bfc9</sys_scope>
+        <sys_update_name>sys_polaris_configurable_menu_item_494684892d1e22107f44ee310e3bbf95</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-20 20:39:42</sys_updated_on>
+        <type>module</type>
+    </sys_polaris_configurable_menu_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Showcase Homepage">724949c12b52ae50ddbbf275d891bfc9</application>
+        <file_path/>
+        <instance_id>9dcaf7b7ff909edcc812f8e4fc4fd9a5</instance_id>
+        <instance_name>paidzdev</instance_name>
+        <name>sys_polaris_configurable_menu_item_494684892d1e22107f44ee310e3bbf95</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_polaris_configurable_menu_item"><sys_polaris_configurable_menu_item action="INSERT_OR_UPDATE"><application_id/><menu_id display_value="]]>🧬<![CDATA[">92f93be483d622107f44a64f8bda1ef8</menu_id><module_id display_value="RPA Hub">94568c492d1e22107f44ee310e3bbf7e</module_id><order>170</order><sys_class_name>sys_polaris_configurable_menu_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-20 20:13:13</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>494684892d1e22107f44ee310e3bbf95</sys_id><sys_mod_count>3</sys_mod_count><sys_name>92f93be483d622107f44a64f8bda1ef8</sys_name><sys_overrides/><sys_package display_value="Showcase Homepage" source="x_snc_creator_show">724949c12b52ae50ddbbf275d891bfc9</sys_package><sys_policy/><sys_scope display_value="Showcase Homepage">724949c12b52ae50ddbbf275d891bfc9</sys_scope><sys_update_name>sys_polaris_configurable_menu_item_494684892d1e22107f44ee310e3bbf95</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-20 20:39:42</sys_updated_on><type>module</type></sys_polaris_configurable_menu_item></record_update>]]></payload>
+        <payload_hash>2093390548</payload_hash>
+        <record_name>92f93be483d622107f44a64f8bda1ef8</record_name>
+        <reverted_from/>
+        <source>706ab8102b2032108cdef5e0f291bf52</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2025-10-08 12:26:07</sys_created_on>
+        <sys_id>35605f6b93643a10d892f912ed03d6ac</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>199c3c933180000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Unified Navigation Configurable Menu Ite</type>
+        <update_guid>f1605f6b43643a10cdab6dd1bf9359ac</update_guid>
+        <update_guid_history>f1605f6b43643a10cdab6dd1bf9359ac:2093390548</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2025-10-19 01:41:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_polaris_configurable_menu_item">sys_polaris_configurable_menu_item</sys_db_object>
+        <sys_id>1347343a42ce4f648333c434a4b70a09</sys_id>
+        <sys_metadata>494684892d1e22107f44ee310e3bbf95</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>92f93be483d622107f44a64f8bda1ef8</sys_name>
+        <sys_package display_value="Showcase Homepage" source="x_snc_creator_show">724949c12b52ae50ddbbf275d891bfc9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Showcase Homepage">724949c12b52ae50ddbbf275d891bfc9</sys_scope>
+        <sys_scope_delete display_value="">02d18785db534db0801a5b64f5408c40</sys_scope_delete>
+        <sys_update_name>sys_polaris_configurable_menu_item_494684892d1e22107f44ee310e3bbf95</sys_update_name>
+        <sys_update_version display_value="sys_polaris_configurable_menu_item_494684892d1e22107f44ee310e3bbf95">35605f6b93643a10d892f912ed03d6ac</sys_update_version>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2025-10-19 01:41:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

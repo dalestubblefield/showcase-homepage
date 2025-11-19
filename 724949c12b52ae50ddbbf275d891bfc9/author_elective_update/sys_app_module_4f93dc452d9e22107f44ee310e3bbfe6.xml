@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Showcase Homepage">80608419472c02105d6c8fd4f16d436b</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Workflow Data Fabric (More Info)</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>601</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>https://www.servicenow.com/now-platform/workflow-data-fabric.html</query>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-20 21:11:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4f93dc452d9e22107f44ee310e3bbfe6</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>🧬 MORE INFO ➚</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Showcase Homepage" source="x_snc_creator_show">724949c12b52ae50ddbbf275d891bfc9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Showcase Homepage">724949c12b52ae50ddbbf275d891bfc9</sys_scope>
+        <sys_update_name>sys_app_module_4f93dc452d9e22107f44ee310e3bbfe6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-06 15:42:56</sys_updated_on>
+        <timeline_page/>
+        <title>🧬 MORE INFO ➚</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>_blank</window_name>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Showcase Homepage">724949c12b52ae50ddbbf275d891bfc9</application>
+        <file_path/>
+        <instance_id>9dcaf7b7ff909edcc812f8e4fc4fd9a5</instance_id>
+        <instance_name>paidzdev</instance_name>
+        <name>sys_app_module_4f93dc452d9e22107f44ee310e3bbfe6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Showcase Homepage">80608419472c02105d6c8fd4f16d436b</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>DIRECT</link_type><map_page/><mobile_title>Workflow Data Fabric (More Info)</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>601</order><override_menu_roles>false</override_menu_roles><query>https://www.servicenow.com/now-platform/workflow-data-fabric.html</query><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-20 21:11:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4f93dc452d9e22107f44ee310e3bbfe6</sys_id><sys_mod_count>5</sys_mod_count><sys_name>]]>🧬<![CDATA[ MORE INFO ➚</sys_name><sys_overrides/><sys_package display_value="Showcase Homepage" source="x_snc_creator_show">724949c12b52ae50ddbbf275d891bfc9</sys_package><sys_policy/><sys_scope display_value="Showcase Homepage">724949c12b52ae50ddbbf275d891bfc9</sys_scope><sys_update_name>sys_app_module_4f93dc452d9e22107f44ee310e3bbfe6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-06 15:42:56</sys_updated_on><timeline_page/><title>]]>🧬<![CDATA[ MORE INFO ➚</title><uncancelable>false</uncancelable><view_name/><window_name>_blank</window_name></sys_app_module></record_update>]]></payload>
+        <payload_hash>-355605511</payload_hash>
+        <record_name>🧬 MORE INFO ➚</record_name>
+        <reverted_from/>
+        <source>706ab8102b2032108cdef5e0f291bf52</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2025-10-08 12:26:07</sys_created_on>
+        <sys_id>14605b6b93643a10d892f912ed03d6e9</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>199c3c933180000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Module</type>
+        <update_guid>d0605b6b09643a10bb47f46bc52fd6e9</update_guid>
+        <update_guid_history>d0605b6b09643a10bb47f46bc52fd6e9:-355605511</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2025-10-19 01:41:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>1d6550e4c678432a87e8ad29e4e2d284</sys_id>
+        <sys_metadata>4f93dc452d9e22107f44ee310e3bbfe6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>🧬 MORE INFO ➚</sys_name>
+        <sys_package display_value="Showcase Homepage" source="x_snc_creator_show">724949c12b52ae50ddbbf275d891bfc9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Showcase Homepage">724949c12b52ae50ddbbf275d891bfc9</sys_scope>
+        <sys_scope_delete display_value="">02d18785db534db0801a5b64f5408c40</sys_scope_delete>
+        <sys_update_name>sys_app_module_4f93dc452d9e22107f44ee310e3bbfe6</sys_update_name>
+        <sys_update_version display_value="sys_app_module_4f93dc452d9e22107f44ee310e3bbfe6">14605b6b93643a10d892f912ed03d6e9</sys_update_version>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2025-10-19 01:41:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

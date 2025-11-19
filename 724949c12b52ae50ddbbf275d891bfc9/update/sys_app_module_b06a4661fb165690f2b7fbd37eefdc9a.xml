@@ -25,17 +25,17 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b06a4661fb165690f2b7fbd37eefdc9a</sys_id>
-        <sys_mod_count>11</sys_mod_count>
-        <sys_name>ServiceNow IDE (Code only) ➚</sys_name>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>ServiceNow IDE ➚</sys_name>
         <sys_overrides/>
         <sys_package display_value="Showcase Homepage" source="x_snc_creator_show">724949c12b52ae50ddbbf275d891bfc9</sys_package>
         <sys_policy/>
         <sys_scope display_value="Showcase Homepage">724949c12b52ae50ddbbf275d891bfc9</sys_scope>
         <sys_update_name>sys_app_module_b06a4661fb165690f2b7fbd37eefdc9a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-06-20 20:34:18</sys_updated_on>
+        <sys_updated_on>2025-10-18 23:13:31</sys_updated_on>
         <timeline_page/>
-        <title>ServiceNow IDE (Code only) ➚</title>
+        <title>ServiceNow IDE ➚</title>
         <uncancelable>true</uncancelable>
         <view_name/>
         <window_name>_blank</window_name>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>d016d2b18366a6107f44edf820da1e67</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_creator_show_showcase_menu_entry">
+    <x_snc_creator_show_showcase_menu_entry action="INSERT_OR_UPDATE">
+        <module display_value="]]>🏠<![CDATA[ Home">62bc8461fb261610f2b7fbd37eefdcdb</module>
+        <nav_menu_item display_value="]]>🚀<![CDATA[">a038076f83247a107f44488d42da1e2b</nav_menu_item>
+        <order>300</order>
+        <package_id>x_snc_creator_show</package_id>
+        <package_installed>false</package_installed>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-06 00:51:58</sys_created_on>
+        <sys_id>d016d2b18366a6107f44edf820da1e67</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-19 01:24:36</sys_updated_on>
+        <title>]]>🏠<![CDATA[ Home</title>
+        <unified_navigation_menu display_value="]]>🚀<![CDATA[">56bad4b8615e2ad07f44a1eb3aeea221</unified_navigation_menu>
+    </x_snc_creator_show_showcase_menu_entry>
+</record_update>]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-19 01:31:49</sys_created_on>
+        <sys_id>b71ec7e783647a107f44488d42da1e95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>🏠 Home</sys_name>
+        <sys_package display_value="Showcase Homepage" source="x_snc_creator_show">724949c12b52ae50ddbbf275d891bfc9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Showcase Homepage">724949c12b52ae50ddbbf275d891bfc9</sys_scope>
+        <sys_update_name>sys_metadata_link_b71ec7e783647a107f44488d42da1e95</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-19 01:31:49</sys_updated_on>
+        <tablename>x_snc_creator_show_showcase_menu_entry</tablename>
+    </sys_metadata_link>
+</record_update>
