@@ -23,7 +23,6 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>application/octet-stream</content_type>
-        <encryption_context/>
         <file_name>ServiceNowSans-Bold.woff</file_name>
         <hash>d1bcfe7d111eebb64a10341e2db577ee56b16a8fcf6df095befc3cca73e3483f</hash>
         <image_height/>

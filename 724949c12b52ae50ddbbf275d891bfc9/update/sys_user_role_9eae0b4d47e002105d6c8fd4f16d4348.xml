@@ -4,7 +4,7 @@
         <can_delegate>true</can_delegate>
         <description>Default user role</description>
         <elevated_privilege>false</elevated_privilege>
-        <encryption_context/>
+        <federated_id>VOLPm6MTEMg+L8on4+2hadlddDz38ZbXHhil+MgXCkA=</federated_id>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_snc_creator_show.user</name>
