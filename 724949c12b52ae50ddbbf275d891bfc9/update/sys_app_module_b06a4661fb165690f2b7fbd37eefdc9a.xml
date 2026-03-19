@@ -19,6 +19,8 @@
         <report/>
         <require_confirmation>true</require_confirmation>
         <roles>admin</roles>
+        <route/>
+        <screen/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>dale.stubblefield</sys_created_by>
         <sys_created_on>2024-12-05 22:55:37</sys_created_on>
@@ -37,6 +39,7 @@
         <timeline_page/>
         <title>ServiceNow IDE ➚</title>
         <uncancelable>true</uncancelable>
+        <ux_list/>
         <view_name/>
         <window_name>_blank</window_name>
     </sys_app_module>

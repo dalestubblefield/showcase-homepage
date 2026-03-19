@@ -5,6 +5,7 @@
         <component_props>{"variant":"header-primary","label":"We make work, work better for people with modern digital workflows","wontWrap":false,"hasNoMargin":false,"level":"1"}</component_props>
         <h>4</h>
         <name/>
+        <required_translations>[{"comment":"","message":"We make work, work better for people with modern digital workflows","code":"PAR_DASHBOARD.cf7f2cb061126ad07f44a1eb3aeea29d.e9af68b061126ad07f44a1eb3aeea210"}]</required_translations>
         <stored_component/>
         <sys_class_name>par_dashboard_widget</sys_class_name>
         <sys_created_by>admin</sys_created_by>

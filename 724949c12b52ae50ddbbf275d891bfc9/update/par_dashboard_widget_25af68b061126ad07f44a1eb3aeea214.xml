@@ -5,6 +5,7 @@
         <component_props>{"html":"&lt;p&gt;The world works with ServiceNow&lt;/p&gt;"}</component_props>
         <h>6</h>
         <name/>
+        <required_translations>[{"comment":"","message":"The world works with ServiceNow","code":"PAR_DASHBOARD.cf7f2cb061126ad07f44a1eb3aeea29d.25af68b061126ad07f44a1eb3aeea214"}]</required_translations>
         <stored_component/>
         <sys_class_name>par_dashboard_widget</sys_class_name>
         <sys_created_by>admin</sys_created_by>

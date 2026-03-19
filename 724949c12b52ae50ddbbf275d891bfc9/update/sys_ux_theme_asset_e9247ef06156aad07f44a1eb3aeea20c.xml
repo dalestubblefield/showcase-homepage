@@ -23,6 +23,7 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>application/octet-stream</content_type>
+        <encryption_context/>
         <file_name>ServiceNowSans-Regular.woff</file_name>
         <hash>c1be7dfc2ddb8c2bdbc63c9bcc98e8bc2425aa6a36aa075acd466239192e63f5</hash>
         <image_height/>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_component_preset">
     <sys_ux_component_preset action="INSERT_OR_UPDATE">
+        <allow_extended_component>false</allow_extended_component>
         <component display_value="Container">d356d14b6e293a3020a244b63d278d8f</component>
         <controller display_value="Properties">fdcde28377221110960ced43ba5a99e7</controller>
         <controller_dependencies/>

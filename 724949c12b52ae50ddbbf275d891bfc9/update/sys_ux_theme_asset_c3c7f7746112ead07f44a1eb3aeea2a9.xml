@@ -23,6 +23,7 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>application/x-font-ttf</content_type>
+        <encryption_context/>
         <file_name>Gilroy-Bold_1858250031.ttf</file_name>
         <hash>8d770a500359e7ff2bb1dbc9e394e2f6df1f36091be0102163883c4ac691a2a4</hash>
         <image_height/>

@@ -27,6 +27,7 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/svg+xml</content_type>
+        <encryption_context/>
         <file_name>2022_ServiceNow_Next_Experience_Logo.svg</file_name>
         <hash>32d800a227bea5336119e6c05248d1607512de363d2a0800f652d628a2bb59b4</hash>
         <image_height/>
