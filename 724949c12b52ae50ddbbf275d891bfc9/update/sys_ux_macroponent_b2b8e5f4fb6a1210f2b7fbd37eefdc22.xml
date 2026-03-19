@@ -2598,8 +2598,29 @@
                     "elementLabel": "Footer",
                     "eventMappings": [],
                     "isHidden": {
-                        "type": "JSON_LITERAL",
-                        "value": false
+                        "transform": {
+                            "operands": {
+                                "container": [
+                                    {
+                                        "binding": {
+                                            "address": [
+                                                "user",
+                                                "roles"
+                                            ],
+                                            "category": "session"
+                                        },
+                                        "type": "CONTEXT_BINDING"
+                                    },
+                                    {
+                                        "type": "JSON_LITERAL",
+                                        "value": "admin"
+                                    }
+                                ],
+                                "type": "LIST_CONTAINER"
+                            },
+                            "operator": "INDEXOF"
+                        },
+                        "type": "CLIENT_TRANSFORM"
                     },
                     "overrides": {
                         "composition": [
@@ -3748,6 +3769,7 @@
         <interactions/>
         <interfaces/>
         <internal_event_mappings>{}</internal_event_mappings>
+        <keyboard_shortcuts>{}</keyboard_shortcuts>
         <layout>{
     "default": {
         "children": null,
@@ -3820,6 +3842,7 @@
         "valueType": "string"
     }
 ]</props>
+        <required_sys_props/>
         <required_translations>[ {
   "message" : "AI",
   "code" : "",
@@ -4141,14 +4164,14 @@
         <sys_created_by>dale.stubblefield</sys_created_by>
         <sys_created_on>2024-12-15 22:48:49</sys_created_on>
         <sys_id>b2b8e5f4fb6a1210f2b7fbd37eefdc22</sys_id>
-        <sys_mod_count>590</sys_mod_count>
+        <sys_mod_count>591</sys_mod_count>
         <sys_name>Showcase Home</sys_name>
         <sys_package display_value="Showcase Homepage" source="x_snc_creator_show">724949c12b52ae50ddbbf275d891bfc9</sys_package>
         <sys_policy/>
         <sys_scope display_value="Showcase Homepage">724949c12b52ae50ddbbf275d891bfc9</sys_scope>
         <sys_update_name>sys_ux_macroponent_b2b8e5f4fb6a1210f2b7fbd37eefdc22</sys_update_name>
         <sys_updated_by>dale.stubblefield</sys_updated_by>
-        <sys_updated_on>2025-11-20 04:01:41</sys_updated_on>
+        <sys_updated_on>2026-03-17 16:51:36</sys_updated_on>
     </sys_ux_macroponent>
     <sys_translated_text action="delete_multiple" query="documentkey=b2b8e5f4fb6a1210f2b7fbd37eefdc22"/>
 </record_update>
